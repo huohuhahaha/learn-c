@@ -1,3 +1,5 @@
+//单链表 头插法
+
 #include <stdio.h>
 #include <stdlib.h>
 
